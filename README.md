@@ -1,6 +1,6 @@
 # Cypress Automation framework
 
-# This Cypress project is for demo purpose only. It is not a real project and not for any client.
+This Cypress project is for demo purpose only. It is not a real project and not for any client.
 
 # Installation instructions:
 
