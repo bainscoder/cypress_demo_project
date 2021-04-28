@@ -2,7 +2,7 @@ class productDetailPage{
 
     getAddtoCartbutton()
     {
-        return  cy.get('#addToCart_feature_div .a-button-inner .a-button-text')
+        return  cy.get('.a-section.a-spacing-small.a-visible .a-button-stack .a-button-inner')
     }
 }
 

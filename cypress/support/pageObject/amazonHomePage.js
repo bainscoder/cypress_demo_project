@@ -8,5 +8,9 @@ class amazonHomePage{
     {
         return  cy.get('.nav-fill #twotabsearchtextbox')
     }
+    getAccountbutton()
+    {
+        return  cy.get('#nav-tools .nav-line-2.nav-long-width')
+    }
 }
 export default amazonHomePage
